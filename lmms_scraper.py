@@ -1,6 +1,4 @@
-#This code pulls shitloads of datas for lmms presets because the internet sucks
-#sometimes and nobody wants to download 1000 presets manually. I don't want to
-#even try ten.
+#!/usr/bin/python3
 
 
 """
